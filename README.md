@@ -60,5 +60,9 @@ TS-DACS mulai menggunakan Github pada Maret 2016 untuk mengelola dan mendokument
    - Beri judul yang menjelaskan perubahan dan sertakan justifikasi serta dampaknya.
    - Klik "Create pull request" untuk memberi tahu TS-DACS tentang perubahan yang diusulkan.
 
-## Penanggung Jawab
-Konten ini dikelola oleh Subkomite Teknis SAA tentang Describing Archives: A Content Standard (TS-DACS).
+## Referensi
+https://github.com/saa-ts-dacs/dacs
+
+
+
+
